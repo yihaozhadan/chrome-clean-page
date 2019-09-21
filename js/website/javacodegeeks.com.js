@@ -1,0 +1,1 @@
+$("iframe, ins.adsbygoogle, .sidebar, .edn-container, .e3lan-top, .e3lan-post, .ulp-inline-window").remove();

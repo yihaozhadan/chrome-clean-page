@@ -1,0 +1,1 @@
+$("#_flexbar_, #footer, .span4").remove();

@@ -1,0 +1,1 @@
+$(".sidebar-primary, .header-widget-area, .lq, .after-entry").remove();

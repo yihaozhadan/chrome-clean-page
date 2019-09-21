@@ -1,0 +1,1 @@
+$("iframe, .widget.HTML, .ima-ad-container, .adsbygoogle, .addthis-smartlayers-desktop, .addthis-smartlayers, .pbs__player").remove();

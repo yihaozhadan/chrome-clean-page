@@ -32,6 +32,24 @@
     },
     {
       "matches": [
+        "https://*.beginnersbook.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/beginnersbook.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.codingcompiler.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/codingcompiler.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.cyberciti.biz/*"
       ],
       "js": [
@@ -68,11 +86,56 @@
     },
     {
       "matches": [
+        "https://*.howtodoinjava.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/howtodoinjava.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.ideone.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/ideone.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.java67.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/java67.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.javacodegeeks.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/javacodegeeks.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.journaldev.com/*"
       ],
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/journaldev.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.programcreek.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/programcreek.com.js"
       ]
     },
     {
@@ -109,6 +172,15 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/tutorialspoint.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.tutorialsteacher.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/tutorialsteacher.com.js"
       ]
     }
   ],

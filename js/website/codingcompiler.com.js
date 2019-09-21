@@ -1,0 +1,1 @@
+$(".quads-location, .widget").remove();

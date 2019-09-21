@@ -1,0 +1,1 @@
+$(".widget.widget_text, .bottomAdesense").remove();

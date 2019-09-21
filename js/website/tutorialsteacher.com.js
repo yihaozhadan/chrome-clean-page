@@ -1,0 +1,1 @@
+$("center, .rightSidebar, .lb-ad").remove();
