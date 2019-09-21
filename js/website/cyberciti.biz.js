@@ -1,0 +1,1 @@
+$(".widget, .adsbygoogle, .code-block").remove();

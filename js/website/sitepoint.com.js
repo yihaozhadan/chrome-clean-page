@@ -1,0 +1,1 @@
+$("iframe, .proper-ad-unit").remove();

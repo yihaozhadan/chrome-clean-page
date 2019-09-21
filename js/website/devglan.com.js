@@ -1,0 +1,1 @@
+$(".adsbygoogle, .google_ad").remove();

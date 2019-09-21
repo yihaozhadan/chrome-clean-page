@@ -1,0 +1,1 @@
+$("#right-sidebar, #quads-ad1, #quads-ad2, #quads-ad3, #quads-ad4").remove();

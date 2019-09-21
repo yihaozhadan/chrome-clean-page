@@ -1,0 +1,1 @@
+$(".widget, .AdsParent, .adsbygoogle, .CAN_ad, .promotional").remove();

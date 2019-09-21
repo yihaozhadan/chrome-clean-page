@@ -1,0 +1,1 @@
+$("iframe, .code-block, .ezoic-ad").remove();

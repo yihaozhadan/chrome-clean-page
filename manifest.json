@@ -1,0 +1,116 @@
+{
+  "name": "Clean Page",
+  "version": "1.0",
+  "description": "Remove advertisements and bring a clean web page.",
+  "permissions": [
+    "activeTab"
+  ],
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/get_started16.png",
+      "32": "images/get_started32.png",
+      "48": "images/get_started48.png",
+      "128": "images/get_started128.png"
+    }
+  },
+  "icons": {
+    "16": "images/get_started16.png",
+    "32": "images/get_started32.png",
+    "48": "images/get_started48.png",
+    "128": "images/get_started128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.baeldung.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/baeldung.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.cyberciti.biz/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/cyberciti.biz.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.devglan.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/devglan.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.dzone.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/dzone.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.geeksforgeeks.org/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/geeksforgeeks.org.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.journaldev.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/journaldev.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.scotch.io/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/scotch.io.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.sitepoint.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/sitepoint.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.softwaretestinghelp.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/softwaretestinghelp.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.tutorialspoint.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/tutorialspoint.com.js"
+      ]
+    }
+  ],
+  "manifest_version": 2
+}

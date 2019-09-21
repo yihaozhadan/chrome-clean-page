@@ -1,0 +1,1 @@
+$("#_stickybox_, .is-right, .is-hidden-with-subscription, .spotim-recirculation, .m-t-lg").remove();
