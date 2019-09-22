@@ -1,0 +1,1 @@
+$("ins.adsbygoogle, #sticky_left, .relatedjobs_div").remove();

@@ -1,1 +1,1 @@
-$(".quads-location, .widget").remove();
+$("iframe, ins, .google-auto-placed, .quads-location, .widget").remove();

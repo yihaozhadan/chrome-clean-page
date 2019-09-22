@@ -1,0 +1,1 @@
+$("#topAdsRow, #side-ads, #bottomAdsRow").remove();

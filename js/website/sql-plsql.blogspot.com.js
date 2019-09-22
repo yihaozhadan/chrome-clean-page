@@ -1,0 +1,1 @@
+$("ins, .google-auto-placed").remove();

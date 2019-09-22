@@ -1,0 +1,1 @@
+$("#mainLeaderboard, #right, #midcontentadcontainer, .bottomad").remove();

@@ -1,0 +1,1 @@
+$("ins.adsbygoogle, #right, ._ap_apex_ad").remove();

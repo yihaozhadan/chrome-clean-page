@@ -1,0 +1,1 @@
+$("#firstpage, #adright, .widget-content").remove();

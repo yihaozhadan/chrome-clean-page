@@ -1,0 +1,1 @@
+$("center, .adflexi, .adwrap").remove();

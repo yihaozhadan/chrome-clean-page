@@ -23,6 +23,15 @@
   "content_scripts": [
     {
       "matches": [
+        "https://*.appcoda.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/appcoda.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.baeldung.com/*"
       ],
       "js": [
@@ -41,11 +50,38 @@
     },
     {
       "matches": [
+        "https://*.binarytides.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/binarytides.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.career.guru99.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/career.guru99.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.codingcompiler.com/*"
       ],
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/codingcompiler.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.csdn.net/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/csdn.net.js"
       ]
     },
     {
@@ -122,6 +158,33 @@
     },
     {
       "matches": [
+        "https://*.javahungry.blogspot.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/javahungry.blogspot.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.javamex.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/javamex.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.javatpoint.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/javatpoint.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.journaldev.com/*"
       ],
       "js": [
@@ -136,6 +199,15 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/programcreek.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.programmerinterview.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/programmerinterview.com.js"
       ]
     },
     {
@@ -167,7 +239,18 @@
     },
     {
       "matches": [
-        "https://*.tutorialspoint.com/*"
+        "https://*.sql-plsql.blogspot.com/*",
+        "http://*.sql-plsql.blogspot.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/sql-plsql.blogspot.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.tutorialspoint.com/*",
+        "http://*.tutorialspoint.com/*"
       ],
       "js": [
         "/js/external/jquery-min.js",
@@ -181,6 +264,36 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/tutorialsteacher.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.tutorials.jenkov.com/*",
+        "http://*.tutorials.jenkov.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/tutorials.jenkov.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.w3schools.com/*",
+        "http://*.w3schools.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/w3schools.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.wisdomjobs.com/*",
+        "http://*.wisdomjobs.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/wisdomjobs.com.js"
       ]
     }
   ],
