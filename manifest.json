@@ -249,6 +249,16 @@
     },
     {
       "matches": [
+        "https://*.toolsqa.com/*",
+        "http://*.toolsqa.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/toolsqa.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.tutorialspoint.com/*",
         "http://*.tutorialspoint.com/*"
       ],

@@ -1,1 +1,1 @@
-$(".sidebar-ad, .ad-container").remove()
+$(".sidebar-ad, .ad-container, .Campaign, .content-right-images").remove()
