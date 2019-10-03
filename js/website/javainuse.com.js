@@ -1,0 +1,1 @@
+$("#nomob, .col-sm-3.sidenav, .adsbygoogle, .vlioutstream").remove();

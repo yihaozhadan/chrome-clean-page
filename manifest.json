@@ -167,6 +167,15 @@
     },
     {
       "matches": [
+        "https://*.javainuse.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/javainuse.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.javamex.com/*"
       ],
       "js": [
