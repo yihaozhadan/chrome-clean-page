@@ -1,0 +1,1 @@
+$(".widget.widget_text, .widget.widget_media_image").remove();
