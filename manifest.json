@@ -59,6 +59,15 @@
     },
     {
       "matches": [
+        "https://*.bloomberg.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/bloomberg.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.career.guru99.com/*"
       ],
       "js": [
@@ -254,6 +263,16 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/sql-plsql.blogspot.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.stackoverflow.com/*",
+        "http://*.stackoverflow.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/stackoverflow.com.js"
       ]
     },
     {

@@ -1,0 +1,1 @@
+$("iframe, #paywall-banner, .leaderboard-container, .taboola, .sponsor-content, .right-rail, .zipr-recirc, .hub-main").remove();

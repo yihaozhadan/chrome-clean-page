@@ -1,0 +1,1 @@
+$("#dfp-tlb, #dfp-tsb").remove();
