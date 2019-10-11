@@ -212,6 +212,15 @@
     },
     {
       "matches": [
+        "https://*.mkyong.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/mkyong.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.programcreek.com/*"
       ],
       "js": [
