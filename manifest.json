@@ -23,6 +23,15 @@
   "content_scripts": [
     {
       "matches": [
+        "https://*.alligator.io/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/alligator.io.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.appcoda.com/*"
       ],
       "js": [

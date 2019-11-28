@@ -1,0 +1,1 @@
+$("#codefund, .sticky-side, .t50, .b40").remove();
