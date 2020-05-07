@@ -1,1 +1,1 @@
-$(".widget, .AdsParent, .adsbygoogle, .CAN_ad, .promotional").remove();
+$(".widget, .AdsParent, .adsbygoogle, .CAN_ad, .promotional, ._bsa_fancybar, #ad_unit, #AP_G4GR_3, #AP_G4GR_5, #AP_G4GR_6").remove();

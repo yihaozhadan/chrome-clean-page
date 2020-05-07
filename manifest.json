@@ -20,8 +20,7 @@
     "48": "images/get_started48.png",
     "128": "images/get_started128.png"
   },
-  "content_scripts": [
-    {
+  "content_scripts": [{
       "matches": [
         "https://*.alligator.io/*"
       ],
@@ -131,6 +130,16 @@
     },
     {
       "matches": [
+        "http://*.free-test-online.com/*",
+        "https://*.free-test-online.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/free-test-online.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.geeksforgeeks.org/*"
       ],
       "js": [
@@ -217,6 +226,26 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/journaldev.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "http://*.mathsisfun.com/*",
+        "https://*.mathsisfun.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/mathsisfun.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "http://*.math-tests.com/*",
+        "https://*.math-tests.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/math-tests.com.js"
       ]
     },
     {
