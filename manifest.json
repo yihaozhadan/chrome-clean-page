@@ -259,6 +259,15 @@
     },
     {
       "matches": [
+        "https://*.plantuml.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/plantuml.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.programcreek.com/*"
       ],
       "js": [

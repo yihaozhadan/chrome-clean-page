@@ -1,1 +1,1 @@
-$(".widget.widget_text, .bottomAdesense").remove();
+$(".widget.widget_text, .bottomAdesense aside, .pub-ad, .widget-area").remove();
