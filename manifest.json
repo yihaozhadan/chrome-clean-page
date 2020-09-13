@@ -149,6 +149,15 @@
     },
     {
       "matches": [
+        "https://*.guru99.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/guru99.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.howtodoinjava.com/*"
       ],
       "js": [
