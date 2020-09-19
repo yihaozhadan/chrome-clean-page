@@ -1,0 +1,1 @@
+$("#_stickybox_, .sidebar, ._bsa_fancybar, .techi-content, .techi-after-content").remove();

@@ -140,6 +140,16 @@
     },
     {
       "matches": [
+        "http://*.freeformatter.com/*",
+        "https://*.freeformatter.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/freeformatter.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.geeksforgeeks.org/*"
       ],
       "js": [
@@ -339,6 +349,16 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/stackoverflow.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.techiedelight.com/*",
+        "http://*.techiedelight.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/techiedelight.com.js"
       ]
     },
     {
