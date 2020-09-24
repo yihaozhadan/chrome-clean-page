@@ -1,0 +1,1 @@
+$("#right-sidebar, .code-block, .textwidget, .ap_container, .google-auto-placed").remove();
