@@ -141,6 +141,15 @@
     },
     {
       "matches": [
+        "https://*.epizy.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/epizy.com.js"
+      ]
+    },
+    {
+      "matches": [
         "http://*.free-test-online.com/*",
         "https://*.free-test-online.com/*"
       ],
@@ -193,6 +202,15 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/ideone.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.infinityfree.net/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/infinityfree.net.js"
       ]
     },
     {

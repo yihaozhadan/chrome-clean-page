@@ -1,0 +1,1 @@
+$("#fuse_dash_header, .adsbygoogle, .clearfix").remove();
