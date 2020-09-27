@@ -1,0 +1,1 @@
+$(".a_t, .a_pr, .a_f, .a_pb").remove();

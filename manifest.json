@@ -23,6 +23,16 @@
   "content_scripts": [
     {
       "matches": [
+        "https://*.1point3acres.com/*",
+        "http://*.1point3acres.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/1point3acres.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.aboutreact.com/*",
         "http://*.aboutreact.com/*"
       ],
