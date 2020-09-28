@@ -392,6 +392,16 @@
     },
     {
       "matches": [
+        "https://*.stackexchange.com/*",
+        "http://*.stackexchange.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/stackexchange.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.stackoverflow.com/*",
         "http://*.stackoverflow.com/*"
       ],

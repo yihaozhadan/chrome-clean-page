@@ -1,0 +1,1 @@
+$(".js-zone-container").remove();
