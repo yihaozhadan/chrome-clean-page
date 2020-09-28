@@ -1,1 +1,1 @@
-$("#fuse_dash_header, .adsbygoogle, .clearfix").remove();
+$("#fuse_dash_header, .adsbygoogle, .clearfix, section.uk-margin-bottom").remove();
