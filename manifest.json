@@ -61,6 +61,15 @@
     },
     {
       "matches": [
+        "https://*.awesomeopensource.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/awesomeopensource.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.baeldung.com/*"
       ],
       "js": [
@@ -467,6 +476,16 @@
       "js": [
         "/js/external/jquery-min.js",
         "/js/website/w3schools.com.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://*.wikihow.com/*",
+        "http://*.wikihow.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/wikihow.com.js"
       ]
     },
     {

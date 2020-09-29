@@ -1,0 +1,1 @@
+$("#server-side-native-ad-container-projects-slot-2, .adsbygoogle, .projects_list_ad_slot_2").remove();

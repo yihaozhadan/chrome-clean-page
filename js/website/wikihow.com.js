@@ -1,0 +1,1 @@
+$(".wh_ad_inner").remove();
