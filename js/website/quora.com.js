@@ -1,0 +1,1 @@
+$(".q-sticky").remove();

@@ -364,6 +364,15 @@
     },
     {
       "matches": [
+        "https://*.quora.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/quora.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.scotch.io/*"
       ],
       "js": [
