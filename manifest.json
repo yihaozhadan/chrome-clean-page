@@ -79,6 +79,15 @@
     },
     {
       "matches": [
+        "https://*.bbc.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/bbc.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.beginnersbook.com/*"
       ],
       "js": [

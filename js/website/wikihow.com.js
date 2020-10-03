@@ -1,1 +1,1 @@
-$(".wh_ad_inner").remove();
+$(".wh_ad_inner, wh_ad_active").remove();

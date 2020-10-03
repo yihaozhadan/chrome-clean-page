@@ -1,0 +1,1 @@
+$(".bbccom_advert, .gnl-mpu__ad, .nw-c-native-ad, .teads-ui-components-adchoices, #bbccom_leaderboard_1_2_3_4, #bbccom_mpu_4, #bbccom_mpu_bottom_1_2_3_4, #bbccom_adsense_1_2_3_4, #u3619559349675594").remove();
