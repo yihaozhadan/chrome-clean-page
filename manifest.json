@@ -439,6 +439,15 @@
     },
     {
       "matches": [
+        "https://*.superuser.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/superuser.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.techiedelight.com/*",
         "http://*.techiedelight.com/*"
       ],
