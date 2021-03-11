@@ -1,0 +1,1 @@
+$(".adsbygoogle, .pFr, .xxl").remove();

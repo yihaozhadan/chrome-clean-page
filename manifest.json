@@ -33,6 +33,16 @@
     },
     {
       "matches": [
+        "https://*.9ku.com/*",
+        "http://*.9ku.com/*"
+      ],
+      "js": [
+        "/js/external/jquery-min.js",
+        "/js/website/9ku.com.js"
+      ]
+    },
+    {
+      "matches": [
         "https://*.aboutreact.com/*",
         "http://*.aboutreact.com/*"
       ],
